@@ -29,8 +29,11 @@
 To see the user messages and download progress, you need to access the background script console. To find it, do the following:
 
 **3.1** - Type chrome://extensions/ on the url field and press enter;
+
 **3.2** - Look for the extention and click on its "background.html", that will appear as a link, in blue;
+
 **3.3** - Go to the tab "console" on the window that will show up.
+
 **3.4** - Done. All the messages and download progress appear on this window.
 
 #### 4 - Features
